@@ -30,9 +30,9 @@ Building scalable, high-performance solutions across **Java, Python, JavaScript,
 
 ---
 
-## 📫 Connect with Me  
+## Connect with Me  
 [LinkedIn](https://www.linkedin.com/in/siribomma/) | [Email](mailto:siribomma.dev@gmail.com)  
 
 ---
 
-⭐️ _“Clean code, high impact, and a mindset of ownership — that’s how I build.”_  
+_“Clean code, high impact, and a mindset of ownership — that’s how I build.”_  
