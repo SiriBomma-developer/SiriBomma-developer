@@ -31,7 +31,7 @@ Building scalable, high-performance solutions across **Java, Python, JavaScript,
 ---
 
 ## Connect with Me  
-[LinkedIn](https://www.linkedin.com/in/siribomma/) | [Email](mailto:siribomma.dev@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/siribomma/) | [Email](mailto:siribomma.dev@gmail.com) | [Portfolio](https://siribomma-developer.github.io/Portfolio/)
 
 ---
 
